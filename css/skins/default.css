@@ -1,0 +1,591 @@
+a:hover {
+    text-decoration: none;
+}
+
+.button-theme {
+    background: #daa520;
+    border: 2px solid #daa520;
+}
+
+.button-theme:hover {
+    background: #000;
+    border: 2px solid #000000;
+}
+
+#page_scroller {
+    background: #daa520;
+}
+
+.overlay-link:hover{
+    background: #daa520;
+    border:2px solid #daa520;
+}
+
+.contact-2 .contact-details .media .media-left i {
+    color: #daa520;
+    border: 1px dashed #daa520;
+}
+
+.property-content .title a{
+    color: #daa520;
+}
+
+.setting-button{
+    background: #daa520;
+}
+
+.option-panel h2{
+    color: #daa520;
+}
+
+.list-inline-listing .active{
+    background: #daa520;
+    border: solid 2px #daa520;
+}
+
+.list-inline-listing li:hover{
+    background: #daa520;
+    border: solid 2px #daa520;
+}
+
+.checkbox-theme input[type="checkbox"]:checked + label::before {
+    border: 2px solid #daa520;
+}
+
+input[type=checkbox]:checked + label:before {
+    color: #daa520;
+}
+
+.out-line-btn{
+    border: solid 2px #daa520;
+    color: #daa520;
+}
+
+.out-line-btn:hover{
+    border: solid 2px #daa520;
+    background: #daa520;
+    color: #fff;
+}
+
+.property-content .facilities-list li i{
+    color: #daa520;
+}
+
+.panel-box .panel-heading .panel-title a i{
+    color: #daa520;
+}
+
+.properties-amenities ul li i {
+    color: #daa520;
+}
+
+.properties-condition ul li i {
+    color: #daa520;
+}
+
+.banner-detail-box h3{
+    color: #daa520;
+}
+
+.border-button-theme {
+    border: 2px solid #daa520;
+    color: #daa520;
+}
+
+.border-button-theme:hover {
+    background: #daa520;
+    color: #fff !important;
+}
+
+.theme-tabs .nav-tabs > li > a {
+    background: #daa520;
+}
+
+.theme-tabs .nav-tabs > li.active > a,
+.theme-tabs .nav-tabs > li > a:hover {
+    color: #daa520; !important;
+}
+
+.theme-tabs .nav-tabs > li > a::after {
+    background: #daa520;
+}
+
+.theme-tabs .tab-nav > li > a::after {
+    background: #daa520 none repeat scroll 0% 0%;
+}
+
+.rightside-navbar li .button {
+    color: #671fc4 !important;
+    border: 1px solid #daa520 !important;
+}
+
+.nav .open>a, .nav .open>a:focus, .nav .open>a:hover {
+    border-color: #fff;
+    border-bottom: transparent;
+}
+
+.rightside-navbar li .button:hover {
+    background: #daa520 !important;
+}
+
+.modal-right-content .price{
+    color: #daa520;
+}
+
+.search-button {
+    background: #daa520;
+
+}
+
+.modal-right-content .bullets li i{
+   color: #daa520;
+}
+
+.modal-left-content .control {
+    background: #daa520;
+}
+
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:focus,
+.navbar-default .navbar-nav > .active > a:hover {
+    color: #daa520 !important;
+    border-top: solid 5px #daa520 !important;
+}
+
+.main-header .navbar-default .nav > li > a:hover {
+   color: #daa520;
+    border-top: solid 5px #daa520;
+}
+
+.intro-section {
+    background: #daa520;
+}
+
+.search-button:hover {
+    color: #fff;
+    background: #000;
+}
+
+.panel-box .nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover {
+    background: #daa520;
+    color: #fff;
+    box-shadow: 2px 2px 4px 2px rgba(0,0,0,0.15);
+}
+
+.properties-panel-box .nav-tabs>li>a:hover {
+    color: #fff;
+    background: #daa520;
+}
+
+.service-item .detail {
+    border-top: solid 3px #daa520;
+}
+
+.heading-properties p i{
+    color: #daa520;
+    margin-right: 5px;
+}
+
+.heading-properties h5{
+    color: #daa520;
+}
+
+.heading-properties h3 span{
+    color: #daa520;
+}
+
+.bootstrap-select.btn-group.show-tick .dropdown-menu li.selected a span.check-mark {
+    color: #daa520;
+}
+
+.bootstrap-select .dropdown-menu li a {
+    color: #daa520;
+}
+
+.bootstrap-select .dropdown-menu li a:hover {
+    background: #daa520;
+}
+
+.bootstrap-select .dropdown-menu > .active > a,
+.bootstrap-select .dropdown-menu > .active > a:focus,
+.bootstrap-select .dropdown-menu > .active > a:hover {
+    color: #daa520;
+}
+
+.for-sale {
+    background: #daa520;
+}
+
+.our-service .content i {
+    color: #daa520;
+}
+
+.our-service .content h4 {
+    color: #daa520;
+}
+
+.service-item .icon {
+    color: #daa520;
+}
+
+.agent-1 .agent-content h5 a:hover{
+    color: #daa520;
+}
+
+.view-all ul li a:hover{
+   background: #daa520;
+    color: #fff;
+}
+
+.property-2 .content .title a{
+    color: #daa520;
+}
+
+.property-2 .facilities-list li i{
+    color: #daa520;
+}
+
+.property-2 .featured{
+    background: #daa520;
+}
+
+.dropdown-menu>li>a:hover {
+    color: #daa520;
+    border-left: solid 5px #daa520;
+}
+
+.option-bar .heading-icon{
+    background: #daa520;
+}
+
+.change-view-btn {
+    color: #daa520;
+    border: solid 1px #daa520;
+}
+
+.btn-outline{
+    border: solid 1px #daa520;
+    color: #daa520;
+}
+
+.btn-outline:hover{
+    border: solid 1px #84ad1d;
+    background: #84ad1d;
+    color: #fff;
+}
+
+.popular .price-for-user{
+    color: #daa520;
+}
+
+.pricing-3.featured .listing-badges .featured{
+    background: #daa520;
+}
+
+.change-view-btn:hover {
+    border: solid 1px #daa520;
+    background: #daa520;
+}
+
+.active-view-btn {
+    background: #daa520;
+    border: solid 1px #daa520;
+}
+
+.active-view-btn:hover {
+    border: solid 1px #daa520;
+    color: #daa520;
+}
+
+.listing-properties-box .detail header.title a {
+    color: #daa520;
+}
+
+.listing-properties-box .detail .title::after {
+    background-color: #daa520;
+}
+
+.show-more-options, .show-more-options:hover {
+    color: #daa520;
+}
+
+.pagination > li > a:hover {
+    background: #daa520;
+    border-color: #daa520;
+}
+
+.pagination > .active > a {
+    background: #daa520;
+    border-color: #daa520;
+}
+
+.pagination > .active > a:hover {
+    background: #daa520;
+    border-color: #daa520;
+}
+
+.blog-box .detail .post-meta span a i {
+    color: #daa520;
+}
+
+.agent-2 .agent-content h1 a:hover{
+    color: #daa520;
+}
+.form-content-box .footer span a {
+    color: #daa520;
+}
+
+blockquote {
+    border-left: 5px solid #daa520;
+}
+
+.banner-search-box{
+    border-top: solid 5px #daa520;
+}
+
+.tab-style-2-line > .nav-tabs > li.active > a {
+    border: solid 1px #daa520 !important;
+    background: #daa520;
+}
+
+.tab-style-2-line > .nav-tabs > li.active > a:hover {
+    border: solid 1px #daa520 !important;
+    background: #daa520 !important;;
+}
+
+.agent-2 .agent-content h3 a:hover{
+    color: #daa520;
+}
+
+.agent-detail h3 a:hover{
+    color: #daa520;
+}
+
+.address-list li span i{
+    color: #daa520;
+}
+
+.read-more{
+    color: #daa520;
+}
+
+.blog-box .date-box{
+    background:  #daa520;
+}
+
+.services-info i{
+    color: #daa520;
+}
+
+.services-info-3 i{
+    color: #daa520;
+}
+
+.archives ul li a:hover{
+    color: #daa520;
+}
+.range-slider .ui-slider .ui-slider-handle {
+    background: #daa520;
+}
+
+.range-slider .ui-slider .ui-slider-handle {
+    border: 2px solid #daa520;
+}
+
+.property-tag.featured {
+    background: #daa520;
+}
+
+.range-slider .ui-widget-header {
+    background-color: #daa520;
+}
+
+.category-posts ul li a:hover {
+    color: #daa520;
+}
+
+.tags-box ul li a:hover {
+    border: 1px solid #daa520;
+    background: #daa520;
+}
+
+.latest-tweet a {
+    color: #daa520;
+}
+
+.popular-posts .media-heading a {
+    color: #daa520;
+}
+
+.comment-meta-author a {
+    color: #daa520;
+}
+
+.comment-meta-reply a {
+    background-color: #daa520;
+}
+
+.contact-1 .contact-details .media .media-left i {
+    color: #daa520;
+    border: 1px dashed #daa520;
+}
+
+.about-text ul li i {
+    color: #daa520;
+}
+
+.breadcrumbs li a:hover {
+    color: #daa520;
+}
+
+.top-header ul li a:hover {
+    color: #daa520;
+}
+
+.helping-center .icon {
+    color: #daa520;
+}
+
+.main-title-2 h1 a:hover{
+    color: #daa520;
+}
+
+.option-bar h4 {
+    color: #daa520;
+}
+
+.attachments a:hover{
+    color: #daa520;
+}
+
+.additional-details-list li a:hover{
+    color: #daa520;
+}
+
+.user-account-box  .content ul li .active {
+    color: #daa520;
+    border-left: solid 5px #daa520;
+}
+
+.user-account-box  .content ul li a:hover{
+    color: #daa520;
+    border-left: solid 5px #daa520;
+}
+
+.photoUpload {
+    background: #fff;
+    color: #daa520;
+}
+
+table.manage-table .title-container .title h4 a{
+    color: #daa520;
+}
+
+.mega-dropdown-menu > li ul > li > a:hover,
+.mega-dropdown-menu > li ul > li > a:focus {
+    text-decoration: none;
+    color: #daa520;
+    background-color: transparent;
+}
+
+table.manage-table .title-container .title span i{
+    color: #daa520;
+    margin-right: 5px;
+}
+
+.panel-box span a{
+    color: #daa520;
+}
+
+table.manage-table td.action a:hover{
+    color: #daa520;
+}
+
+.typography-page mark.color {
+    background-color: #daa520;
+}
+
+.list-3 li:before, .list-2 li:before, .list-1 li:before {
+    color: #daa520;
+}
+
+.numbered.color.filled ol > li::before {
+    border: 1px solid #daa520;
+    background-color: #daa520;
+}
+
+.numbered.color ol > li::before {
+    border: 1px solid #daa520;
+    color: #daa520;
+}
+
+.map-marker:hover {
+    background-color: #daa520;
+    cursor: pointer;
+}
+.map-marker:hover:before {
+    border-color: #daa520 transparent transparent transparent;
+}
+
+.map-marker.featured:hover {
+    background-color: #daa520;
+}
+.map-marker.featured:hover:before {
+    border-color: #daa520 transparent transparent transparent;
+}
+
+.map-marker .icon {
+    border: 3px solid #daa520;
+}
+
+.marker-active .map-marker {
+    background-color: #daa520;
+}
+.marker-active .map-marker:before {
+    border-color: #daa520 transparent transparent transparent;
+}
+
+.map-properties .address i{
+    color: #daa520;
+}
+
+.map-properties-btns .border-button-theme{
+    color: #daa520; !important;
+}
+
+.map-properties-btns .border-button-theme:hover{
+    color: #fff !important;
+}
+.map-properties .map-content h4 a{
+    color: #daa520;
+}
+
+.map-properties .map-properties-fetures span i {
+    color: #daa520;
+}
+.dropzone-design:hover {
+    border: 2px dashed #daa520;
+}
+
+@media (max-width: 768px) {
+    .navbar-default .navbar-toggle .icon-bar {
+        background: #daa520;
+    }
+
+    .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
+        background-color: #daa520;
+        color: #fff! important;
+    }
+
+    .main-header .navbar-default .nav > li > a:hover {
+        background: #daa520;
+    }
+
+    .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus, .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover {
+        background-color: #daa520; !important;
+    }
+
+    .navbar-default .navbar-nav .open .dropdown-menu > li > a {
+        background: #eee;
+    }
+}
